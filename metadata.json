@@ -1,0 +1,6 @@
+{
+  "name": "Khorochkori",
+  "description": "An elegant offline personal finance manager designed for Bangladeshi users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
